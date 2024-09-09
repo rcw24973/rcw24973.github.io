@@ -1,0 +1,53 @@
+Robert Charles Weimer
+1091 BridgeMill Ave
+Canton, Georgia
+
+Contact
+678.209.6941
+rweimer001@gmail.com
+https://www.linkedin.com/in/robert-weimer-4475b3292/
+
+Motivated computer science student seeking internship in software development or cybersecurity to gain hands-on experience.
+Outgoing and friendly with strong drive to succeed. Diligent College Student focused on dedication to prompt project completion and continual adaptation. 
+Team-oriented collaborator with reliability and focus on equitable task distribution through group projects and motivation to accomplish mutually held goals.
+
+Education
+University of Georgia, Franklin College of Arts & Sciences Athens, GA
+Bachelor of Science in Computer Science with a Minor in General Business May 2025
+GPA: 3.82/4.00
+
+Courses: Introduction to Computing and Programming, Software Development, Systems Programming, Data Structures,
+Introduction to Theory of Computing, Computer Architecture and Organization, Evolutionary Computing Applications,
+Computer Networks, Algorithms, Cybersecurity, Database Management, Web Programming.
+
+Awards:
+Spring 2022, Fall 2022, Spring 2023 - Dean's List
+Georgia Zell Miller Scholarship Recipient
+The 2021 Holingsworth Math Award Recipient
+
+Skills
+Software Development, Proficient in Object Oriented Programming, Advanced Knowledge of Embedded Systems, Java, C, and C++ Specialist, 
+Interface Design and Implementation, Code Review, Problem-Solving, Testing and Debugging, Educational Feedback, Records Management,
+Proficient in Python, Expert with MySQL Databases
+
+Certifications
+Department of Defense Secret Level Clearence
+
+Leadership and Experience
+Give a Kid a Chance Canton, GA: 2021
+Shift Manager at Guthrie's Chicken Fingers Canton, GA: November 2020 - June 2022
+Tutor Self Employed Athens, GA: Feburary 2022 - May 2023
+Powerlifting Coach Self Employed Athens, GA: August 2022 - Feburary 2023
+Software Engineering Intern at Robins Air Force Base Warner Robins, GA: June 2024 - August 2024
+Facility Attendant at Ramsey Student Center Athens, GA: Janurary 2024 - Present
+
+Projects
+Mobile Banking Website - 
+Developed a simulated version of a mobile banking website including functionality to create new accounts, deposit money, as well as transfering to other users. 
+Webiste is run locally using Apache spring boot library. Utilizes MySQL databse locally to store information.
+
+Music Creation through Evolutionary Programming - 
+Uses the fudamentals of genetic and evolutionary programming to create simple 8-bit style beats for music inpiration and creation.
+The project was created in Python, and utilizes the random library to randomly create and simulate genetic mutation in the beats and notes created.
+Also utilizes the CLICK python library in order to create the music and export created music into a midi file.
+

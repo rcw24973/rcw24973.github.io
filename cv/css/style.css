@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    background-color: #F9F7F7;
+    font-family: "Fustat", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-optical-sizing: auto;
+}
+nav {
+    border-bottom: double;
+    display:flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: #112D4E;
+    color:#DBE2EF;
+}
+footer {
+    border-top:double;
+    display: flex;
+    justify-content: center;
+    background-color: #112D4E;
+    color:#DBE2EF;
+    padding:10px;
+}
+.row {
+    display:flex;
+}
+.column {
+    flex:3 0 0%;
+    padding:10px;
+}
+.columnleft{
+    display: flex;
+    flex:.7 0 0%;
+}
+.splash {
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #112D4E;
+    color:#DBE2EF;
+    padding:20px;
+}
+.splash h1 {
+    font-size: 28px;
+}
+.headshot {
+    display: flex;
+    border-radius: 5px;
+    border-style:ridge;
+    border-color:#DBE2EF;
+}
+.splash .tag {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: #DBE2EF;
+}
+hr {
+    width:10px;
+    margin-right: 5px;
+    border-right-style: double;
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    border-color: #14467e;
+}
+h2 {
+    border-bottom-style: solid;
+    border-color: #14467e;
+}
+.school {
+    display: flex;
+}
+.school hr {
+    border:none;
+    height:400px;
+    width:3px;
+    background-color: #14467e;
+}
+.education {
+    flex: 50%;
+    margin-right: 10px
+}
+.education p {
+    font-size: 20px;
+}
+.education h2 {
+    border-bottom-style: solid;
+    border-color:#14467e;
+}
+.honors {
+    flex:50%;
+    margin-left: 10px;
+}
+dl {
+    display:grid;
+    grid-template-columns:max-content 1fr;
+    row-gap: 15px;
+    font-size: 20px;
+}
+.one-col {
+    display:inline-flex;
+    flex-direction: column;
+    width: 200px;
+}
+.one-col textarea {
+    width:300px;
+    height:150px;
+    margin-bottom:5px;
+}
+.cont {
+    padding:5px;
+}
+.three-col {
+    display:grid;
+    grid-template-columns: 300px 300px 300px;
+    justify-content: space-around;
+    margin:10px;
+}
+.card {
+    border: solid #14467e;
+    background-color: #14467e;
+    color:#DBE2EF;
+    padding:10px;
+    border-radius: 7px;
+    box-shadow:10px 10px;
+    width:300px;
+}
+.cardImg {
+    border-radius: 4px;
+    border: ridge #DBE2EF;
+}
+
+
+a {
+    color:rgb(76, 73, 255);
+    text-decoration: none;
+}
+a:visited{
+    color:rgb(160, 51, 255);
+}
+a:hover {
+    color: red;
+}
+
+/*
+Link to color palet:
+https://colorhunt.co/palette/f9f7f7dbe2ef3f72af112d4e
+*/

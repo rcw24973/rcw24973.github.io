@@ -67,6 +67,7 @@ hr {
 h2 {
     border-bottom-style: solid;
     border-color: #14467e;
+    font-family: "Fustat", serif;
 }
 .school {
     display: flex;

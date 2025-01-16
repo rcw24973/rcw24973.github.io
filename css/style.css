@@ -1,4 +1,9 @@
+html, body {
+    height: 100%;
+}
 body {
+    display:flex;
+    flex-direction: column;
     margin: 0;
     background-color: #F9F7F7;
     font-family: "Fustat", serif;
@@ -104,12 +109,13 @@ dl {
     width: 200px;
 }
 .one-col textarea {
-    width:300px;
-    height:150px;
+    width:600px;
+    height:300px;
     margin-bottom:5px;
 }
 .cont {
     padding:5px;
+    flex:1;
 }
 .three-col {
     display:grid;

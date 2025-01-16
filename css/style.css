@@ -45,7 +45,6 @@ footer {
     font-size: 28px;
 }
 .headshot {
-    display: flex;
     border-radius: 5px;
     border-style:ridge;
     border-color:#DBE2EF;

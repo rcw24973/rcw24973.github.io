@@ -152,6 +152,11 @@ a:hover {
     color: red;
 }
 
+@media (max-width: 768px) {
+    .splash {
+        flex-direction: row;
+    }
+}
 /*
 Link to color palet:
 https://colorhunt.co/palette/f9f7f7dbe2ef3f72af112d4e
